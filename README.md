@@ -20,4 +20,8 @@ World Vision Australia: Enhancing Donor Engagement and Retention
 -Built Python analytics engine with SQL integration for multi-source data processing.  
 -Created interactive Power BI dashboards for improved data visualization.  
 -Implemented data quality checks using Python, achieving 99.9% accuracy.  
--Trained 50+ users, increasing platform adoption by 40% across departments.  
+-Trained 50+ users, increasing platform adoption by 40% across departments. 
+
+### ✨ Skills
+
+Power-BI | MySQL | MS-Office | Agile | Requirements Gathering | UML | Stakeholder Management.
