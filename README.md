@@ -7,7 +7,7 @@ Master of Business Analytics | Deakin University | WAM 72
 
 ### 🖥️ Work Experience
 
-Position: Business Analyst Intern | Company: WebIdeas | Location: Victoria, Australia.   
+Business Analyst Intern | WebIdeas | Victoria, Australia   
 
 -Coordinated and planned sprints for web development projects, ensuring timely delivery of features.  
 -Managed and prioritized support tickets using Jira, improving resolution time by 20%.  
@@ -24,4 +24,4 @@ World Vision Australia: Enhancing Donor Engagement and Retention
 
 ### ✨ Skills
 
-Power-BI | MySQL | MS-Office | Agile | Requirements Gathering | UML | Stakeholder Management.
+PowerBI | MySQL | MSOffice | Agile | Requirements Gathering | UML | Stakeholder Management
