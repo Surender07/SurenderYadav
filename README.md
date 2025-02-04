@@ -9,10 +9,7 @@ Master of Business Analytics | Deakin University | WAM 72
 
 Business Analyst Intern | WebIdeas | Victoria, Australia   
 
--Coordinated and planned sprints for web development projects, ensuring timely delivery of features.  
--Managed and prioritized support tickets using Jira, improving resolution time by 20%.  
--Collaborated with cross-functional teams to understand business requirements and implement solutions.  
--Developed and maintained documentation for support processes, enhancing team efficiency.  
+In this role, I worked as an Intern in a software and web-development firm based out of Mithcam in Victoria to understand their business, increase the sales, and reduce the overhead costs by analyzing the data, reporting on the insights to the founder and holding performance review meetings on weekly basis, this role taught me the importance of working within teams and helping each other out at work.
 
 ### 🗂️ Projects
 World Vision Australia: Enhancing Donor Engagement and Retention
